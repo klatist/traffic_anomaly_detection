@@ -1,0 +1,8 @@
+name: projekt
+channels:
+  - defaults
+dependencies:
+  - ipykernel
+  - python=3.12
+  - jupyter
+prefix: /opt/miniconda3/envs/projekt
